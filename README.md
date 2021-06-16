@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# ShopIt
+
+-ShopIt is a React sample app for a shopping site that can be customized according to your needs.
+
+-All components are customized and reusable.
+
+-It is developed by TS, and React Material UI for Views.
+
+-State Management is Redux.
+
+-Compatible with your own backend services, the default backend service is Back4App(Parse Platform) just for rendering backend side.
+
+# How to use it (By Create React App):
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
